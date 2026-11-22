@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0.0",
+  "node_id": "ryzean84/curated-modern-osint-tools-forkby_ryzean84",
+  "namespace": "ryzean84-public",
+  "visibility": "public",
+  "tier": 2,
+  "plane": "tooling-plane",
+  "parent": "public-authority",
+  "description": "Public curated OSINT resource catalog; upstream-derived content remains governed by its source license.",
+  "hierarchy_tier": "satellite",
+  "architectural_plane": "tooling-plane",
+  "depends_on": []
+}
